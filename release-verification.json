@@ -1,14 +1,10 @@
 {
-  "sourceCommit": "70cec4182a1d3964496c38363defaa5f3e87bd2b",
+  "sourceCommit": "7d2bf2a184468238735b3145a4d68f522844fd05",
   "nestedPath": "/project-photos/",
   "qa": {
-    "node": 90,
-    "service": 34,
-    "browser": 1,
-    "independent": 17,
-    "exploration": "30 actions, zero errors",
-    "physicalCapture": "2448x3264 capture/reload verified by root",
-    "offlineLaunch": "pending live verification"
+    "workerFixReview": "Three independent reviewers: zero findings; root GREEN",
+    "rootShellTests": "2/2 passed",
+    "offlineLaunch": "pending live verification of this release"
   },
   "inventory": [
     {
@@ -38,8 +34,8 @@
     },
     {
       "file": "sw.js",
-      "bytes": 857,
-      "sha256": "ad6de4f09a44d2dd8df0916ef1651c71cf4b63957b54632c4492705cb27f0af9"
+      "bytes": 917,
+      "sha256": "7e5e70c49c136b9dc98d3ea556ac1207ffb856d58248086a029d288f5401f37e"
     }
   ]
 }
