@@ -1,0 +1,39 @@
+{
+  "nestedPath": "/project-photos/",
+  "offlineLaunch": true,
+  "serviceWorkerScopeCorrect": true,
+  "privateNetworkNotCached": true,
+  "assetReferencesValid": true,
+  "inventory": [
+    {
+      "file": "icon.svg",
+      "bytes": 239,
+      "sha256": "045156c93a86dabf746aee3708f82673537bf135ab527962f1cd91cebf5ef71a"
+    },
+    {
+      "file": "index.html",
+      "bytes": 603,
+      "sha256": "bad2dfdf9d0c53ac695df3d036478a9d93d488d74b5185e6063f2c1cee87af08"
+    },
+    {
+      "file": "manifest.webmanifest",
+      "bytes": 339,
+      "sha256": "9acc80725b8123546660e0f209e9e1c41c98b94b4415808ead059d2d2f49bc1b"
+    },
+    {
+      "file": "sw.js",
+      "bytes": 857,
+      "sha256": "66559c1eb257b5ddfa855972c29c8d8db15218c214ba4d29b7b8be477fb47d3b"
+    },
+    {
+      "file": "assets/index-C8EFfJPL.js",
+      "bytes": 46550,
+      "sha256": "056de532d69e734a584e70296114ef7697e4571e02a425e511f185b4991bc416"
+    },
+    {
+      "file": "assets/index-DI8qxrIl.css",
+      "bytes": 5720,
+      "sha256": "fc7ae5d18615603cd2a9ad9fd5864f09ec07b4da93709f9b58b3e74b2e542650"
+    }
+  ]
+}
