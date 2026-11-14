@@ -1,25 +1,25 @@
 {
-  "sourceCommit": "c387b3d2e6668e081dcba8e765812c3735c65392",
+  "sourceCommit": "2b4efd2130681e5c8ce65cca676a9e643f74c9bc",
   "nestedPath": "/project-photos/",
   "qa": {
-    "node": 94,
-    "browser": 42,
+    "node": 97,
+    "browser": 53,
     "productionShell": 2,
     "review": "Final three-axis review: zero findings; root GREEN",
-    "android35": "772x1280 JPEG, 159016 bytes, blank subject; exact-hash reload and offline retention passed per root",
-    "pending": "Native permission prompt, company login, paired live Dropbox unverified",
+    "android35": "Current UX Android35 emulator: 772x1280 JPEG,158339 bytes,blank subject, Gallery preview and identical image/metadata hashes after reload; synthetic identity",
+    "pending": "Native APK/physical camera quality, company login and live paired Dropbox remain unverified; desktop visual QA320/390/844 passes",
     "liveShell": "pending verification of this release"
   },
   "inventory": [
     {
-      "file": "assets/index-BzD4hoRS.js",
-      "bytes": 73043,
-      "sha256": "4392eb446b9a0607c0c729c96c155b6885d83924174e2e4fc67176f73c43bcce"
+      "file": "assets/index-BLFFpkv8.css",
+      "bytes": 31163,
+      "sha256": "63b70aa21ff8d17318c2b69b28f9241bb638ce8782b1048c8f6b37e5983071ea"
     },
     {
-      "file": "assets/index-DET33yfp.css",
-      "bytes": 22057,
-      "sha256": "21966a943da34b832b99f99f0d0285823016750b9575a7c6bf1fcc5da3fd9fa9"
+      "file": "assets/index-oArA-vUA.js",
+      "bytes": 84485,
+      "sha256": "99e85282f0bae51aa2af82fb48f1d8d04c7e842d81f67fa36561adb7f203c12c"
     },
     {
       "file": "icon.svg",
@@ -29,7 +29,7 @@
     {
       "file": "index.html",
       "bytes": 603,
-      "sha256": "7addb17046bcf1c3a5843eeb8a1cc6966e7f779dafc10eca804e810feaada250"
+      "sha256": "4f11ecf1be80bbf6bc075486f91fba83e207b7586729b617598e952eeed2bc74"
     },
     {
       "file": "manifest.webmanifest",
@@ -39,7 +39,7 @@
     {
       "file": "sw.js",
       "bytes": 917,
-      "sha256": "5b9610c7d2daa1906689e3c883ea4dec1428a433b96fd5ce4a665fc1ea407b82"
+      "sha256": "b414f8b196b41d9adf227d6a5e55824ae1bae807441c972ca8528fb7162552d0"
     }
   ]
 }
