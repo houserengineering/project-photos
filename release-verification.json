@@ -1,21 +1,25 @@
 {
-  "sourceCommit": "7d2bf2a184468238735b3145a4d68f522844fd05",
+  "sourceCommit": "c387b3d2e6668e081dcba8e765812c3735c65392",
   "nestedPath": "/project-photos/",
   "qa": {
-    "workerFixReview": "Three independent reviewers: zero findings; root GREEN",
-    "rootShellTests": "2/2 passed",
-    "offlineLaunch": "pending live verification of this release"
+    "node": 94,
+    "browser": 42,
+    "productionShell": 2,
+    "review": "Final three-axis review: zero findings; root GREEN",
+    "android35": "772x1280 JPEG, 159016 bytes, blank subject; exact-hash reload and offline retention passed per root",
+    "pending": "Native permission prompt, company login, paired live Dropbox unverified",
+    "liveShell": "pending verification of this release"
   },
   "inventory": [
     {
-      "file": "assets/index-BfX6rmUJ.css",
-      "bytes": 14651,
-      "sha256": "58d168351f4f7a492a18e571299dc74bb67e8899f8f468bd1408722b76a70f0e"
+      "file": "assets/index-BzD4hoRS.js",
+      "bytes": 73043,
+      "sha256": "4392eb446b9a0607c0c729c96c155b6885d83924174e2e4fc67176f73c43bcce"
     },
     {
-      "file": "assets/index-BUuLuxer.js",
-      "bytes": 68308,
-      "sha256": "d2d239a2bfa31b65da3fdcdbc38d9ab88e700fe829a8b70a3829d28d75a33ac7"
+      "file": "assets/index-DET33yfp.css",
+      "bytes": 22057,
+      "sha256": "21966a943da34b832b99f99f0d0285823016750b9575a7c6bf1fcc5da3fd9fa9"
     },
     {
       "file": "icon.svg",
@@ -25,7 +29,7 @@
     {
       "file": "index.html",
       "bytes": 603,
-      "sha256": "b4bf8d1c6b7070e6d05100f11789c08413c6a34115326cfd27e9f533d280c7e3"
+      "sha256": "7addb17046bcf1c3a5843eeb8a1cc6966e7f779dafc10eca804e810feaada250"
     },
     {
       "file": "manifest.webmanifest",
@@ -35,7 +39,7 @@
     {
       "file": "sw.js",
       "bytes": 917,
-      "sha256": "7e5e70c49c136b9dc98d3ea556ac1207ffb856d58248086a029d288f5401f37e"
+      "sha256": "5b9610c7d2daa1906689e3c883ea4dec1428a433b96fd5ce4a665fc1ea407b82"
     }
   ]
 }
